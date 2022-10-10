@@ -14,6 +14,6 @@ Matplotlib/Plotly: 3D visualization<br>
 
 ### Approach
 Distill to related variables: <br> 
-Avatars types (age, gender, ethnicity) Game experience (stack progress/session, total playtime, average skill points/session)<br>  
+Avatars types (age, gender, ethnicity) Game experience (stack progress/session, total playtime, average skill points/session)<br>
 Categorize players with K-Means clustering on normalized data Examine game experiences among different avatars by: <br> 
 Coloring based on avatar types Performing ANOVA test to compare group means<br> 
