@@ -20,7 +20,7 @@ Avatars types (age, gender, ethnicity) Game experience (stack progress/session, 
 - Performing ANOVA test to compare group means<br> 
 
 ### Report:
-https://docs.google.com/presentation/d/1iYCEFOiZKJ8BKYyfmbQPLCyU9cPK1cKkULuJ-YLlNr0/edit?usp=sharing
+https://marlenelin.github.io/notion%20upload/towardscompletion.pdf
 
 ### Conclusion:
 - Homogeneity in game experiences for the current student pool <br>
